@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/icons": "^2.0.1",
     "prop-types": "^15.6.2",
     "ra-data-json-server": "^2.2.0",
     "react": "^16.4.2",
